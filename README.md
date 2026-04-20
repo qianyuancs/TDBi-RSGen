@@ -36,6 +36,7 @@ This work is built upon the [HySCDG](https://github.com/yb23/HySCDG) framework. 
 * **FLAIR Dataset**: The primary remote sensing dataset is publicly available at the [FLAIR Project Page](https://ignf.github.io/FLAIR/index.html).
 * **Prompts and Footprints**: The auxiliary files, including `FLAIR_Prompts.csv` and `instancesFootprints.pkl`, can be found on [Zenodo](https://zenodo.org/records/15129648).
 * **Pre-trained Weights**: The generative model weights (Stable Diffusion + ControlNet) are hosted on Hugging Face at [Yanis236/HySCDG](https://huggingface.co/Yanis236/HySCDG).
+* **TDBI-RSGen dataset**: Our dataset is available at the [TDBI-RSGen dataset](https://huggingface.co/datasets/qianyuancs/TDBi-RSGen).
 
 
 
